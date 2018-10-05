@@ -1,0 +1,25 @@
+*{
+    margin: 2em;
+    }
+    
+header{
+    background-color: #747474;
+    margin: auto;
+    min-height: 100px;
+}
+    
+header img {
+    float: left;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+    
+li{
+    display: inline-block;
+    margin: 1em;
+}
+footer{
+    background-color: #747474;
+    margin: auto;
+    min-height: 100px;
+}
